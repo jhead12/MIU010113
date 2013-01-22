@@ -1,1 +1,1 @@
-var request = new XMLHttpRequest();request.open('GET', 'JSON.js',false);request.send();console.log(request);
+var request;new XMLHttpRequest()request.open('GET', 'js/JSON.js',false);request.send();console.log(request);
