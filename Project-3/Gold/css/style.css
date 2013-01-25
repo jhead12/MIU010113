@@ -18,8 +18,7 @@ h1 {
     margin: 0 auto;
     padding: 12px;
     text-align: center;
-}
-li, h1 {
+}li, h1 {
     display: table;
     font-size: 100%;
     padding: 8px 0 0;
@@ -32,7 +31,7 @@ h3 {
 }
 input {
     font-size: 100%;
-    height: inherit;
+    height: inherit;    width: 100px;
 }
 legend {
     color: yellowgreen;
@@ -45,7 +44,9 @@ fieldset {
     background: none repeat scroll 0 0 lightblue;
     border-radius: 8px 8px 8px 8px;
     font-size: 100%;
-    margin: 0 auto;
+    margin: 0 auto;   
+}#fset{
+	padding: 20px;
 }
 #buttons {
     border: 2px none;
