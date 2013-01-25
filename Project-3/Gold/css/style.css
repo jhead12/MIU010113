@@ -18,7 +18,11 @@ h1 {
     margin: 0 auto;
     padding: 12px;
     text-align: center;
-}li, h1 {
+}
+
+
+
+li, h1 {
     display: table;
     font-size: 100%;
     padding: 8px 0 0;
@@ -31,7 +35,12 @@ h3 {
 }
 input {
     font-size: 100%;
-    height: inherit;    width: 100px;
+<<<<<<< HEAD
+    height: inherit;
+    width: 100px;
+=======
+    height: inherit;
+>>>>>>> refs/remotes/origin/gh-pages
 }
 legend {
     color: yellowgreen;
@@ -44,9 +53,16 @@ fieldset {
     background: none repeat scroll 0 0 lightblue;
     border-radius: 8px 8px 8px 8px;
     font-size: 100%;
-    margin: 0 auto;   
-}#fset{
+<<<<<<< HEAD
+    margin: 0 auto;
+   
+}
+
+#fset{
 	padding: 20px;
+=======
+    margin: 0 auto;
+>>>>>>> refs/remotes/origin/gh-pages
 }
 #buttons {
     border: 2px none;
@@ -80,7 +96,12 @@ textarea {
     font-size: 100%;
     height: 150px;
     resize: inherit;
-    width: 100%;    padding-right:20px ;
+<<<<<<< HEAD
+    width: 100%;
+    padding-right:20px ;
+=======
+    width: 100%;
+>>>>>>> refs/remotes/origin/gh-pages
 }
 #submit {
     background-image: -moz-linear-gradient(-90deg, white 0%, red 100%);
@@ -149,6 +170,9 @@ footer {
 }
 #search-bar{
 	padding-bottom:10px ;
-}footer{
-	background-color: black;	height: 30px;	
+}
+footer{
+	background-color: black;
+	height: 30px;
+	
 }
