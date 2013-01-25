@@ -7,7 +7,7 @@ $('#signUp').on('pageinit', function(){
 		var myForm = $('#contactForm').click();
 		    myForm.validate(),									
 			myForm.submit(function(){				var data = myForm.serializeArray();
-					storeData(data); 				});			//Clear Local Storage 			$('#clear').click('clearLocal');												
+					storeData(data); 				});			//Clear Local Storage 			$('#clear').click('clearLocal');									 			
 		
 		
 	
