@@ -50,10 +50,10 @@ legend {
     text-decoration: none;
 }
 fieldset {
-    background: none repeat scroll 0 0 lightblue;
+    background: none repeat scroll 0 0 ivory;
     border-radius: 8px 8px 8px 8px;
     font-size: 100%;
-<<<<<<< HEAD
+
     margin: 0 auto;
    
 }
@@ -175,4 +175,21 @@ footer{
 	background-color: black;
 	height: 30px;
 	
+}label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }#des1{
+	
+    background-image: url("../images/header.png");
+    height: 36px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}.ui-content{color: brown;background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 0%, #00852B 51%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(51%,#00852B)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ffffff 0%,#00852B 51%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ffffff 0%,#00852B 51%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ffffff 0%,#00852B 51%); /* IE10+ */
+background: linear-gradient(to bottom, #ffffff 0%,#00852B 51%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00852B',GradientType=0 ); /* IE6-9 */
+		
+}#para{
+		background: white;	padding: 10px;
 }
