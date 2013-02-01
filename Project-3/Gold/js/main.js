@@ -18,8 +18,7 @@ $('#signUp').on('pageinit', function () {
            console.log(invalidHandler);
         },
     
-		//Store Data		
-       storeData();       deleteitem();                     
+		//Store Data 
     });
 
 
