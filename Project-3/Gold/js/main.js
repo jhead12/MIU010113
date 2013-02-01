@@ -62,7 +62,6 @@ $('#signUp').on('pageinit', function () {
             $('#group01').append('<option value =' + adTypeGroup[i] + '>' + adTypeGroup[i] + '</option>');
 
 
-
         }
 
 
