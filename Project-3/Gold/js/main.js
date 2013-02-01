@@ -28,7 +28,7 @@ $('#signUp').on('pageinit', function () {
     
 
         submitHandler: function (data) {        	var myForm = $('form');        	var data = myForm.serializeArray();
-            myForm.submit(            	function(){           		storeData(data); 				console.log('test');            	}            );            
+            myForm.submit(           		storeData(data); 				console.log('test');            );            
         }
     });
 
