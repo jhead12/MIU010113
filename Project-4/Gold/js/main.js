@@ -18,7 +18,7 @@ $('#signUp').on('pageinit', function () {
            console.log(invalidHandler);
         },
     
-		//Store Data 
+		//Store Data 		 	
     });
 
 
