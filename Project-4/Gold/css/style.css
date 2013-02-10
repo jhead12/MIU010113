@@ -26,7 +26,7 @@ li, h1 {
     display: table;
     font-size: 100%;
     padding: 8px 0 0;
-    text-decoration: none;
+    text-decoration: none;    
 }
 h3 {
     color: white;
@@ -192,4 +192,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 		
 }#para{
 		background: white;	padding: 10px;
+}.default{
+	font-size: small;	color: red;
+}#data{
+		background: green;		color: springgreen;
 }

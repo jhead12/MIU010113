@@ -1,5 +1,7 @@
 $('#home').on('pageinit', function(){
 	//code needed for home page goes here
+});	$('#adPage').on('pageinit', function(){
+	//code needed for home page goes here		$('clear').bind(clearLocal());	$('#displayLink').bind(getData());		
 });	
 		
 $('#signUp').on('pageinit', function(){
